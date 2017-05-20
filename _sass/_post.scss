@@ -1,0 +1,19 @@
+.post {
+    margin-left: 2rem;
+    max-width: 50rem;
+
+    p {
+        margin-bottom: 1rem;
+    }
+    img {
+        max-width: 120%;
+    }
+}
+
+.post-header {
+    margin-bottom: 1rem;
+}
+
+.post-title {
+    @extend %uppercase;
+}

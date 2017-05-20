@@ -1,0 +1,50 @@
+%uppercase {
+    text-transform: uppercase;
+    letter-spacing: .01em;
+
+}
+body {
+    padding: 3%;
+    font-size: 1.2rem;
+}
+
+.site-header {
+    @extend %uppercase;
+    display: flex;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    a {
+        color: $black;
+        text-decoration: none;
+    }
+    ul {
+        list-style: none;
+    }
+}
+
+.home-nav {
+    h2 {
+        @extend %uppercase
+    }
+    a {
+        margin-bottom: .1rem;
+        display: block;
+        color: black;
+        text-decoration: none;
+        &:visited {
+        }
+    }
+}
+
+.home-subnav {
+    margin-right: 5%;
+}
+
+span a {
+    display: inline-block !important;
+}
+
+.platform {
+    margin-top: 1rem;
+}
