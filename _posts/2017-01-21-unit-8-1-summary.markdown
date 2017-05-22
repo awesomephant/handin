@@ -9,7 +9,7 @@ For this project I set out to explore different modes of data visualisation and 
 
 Initially I worked on a chatbot that could serve as an intuitive interface to the Met Office's datasets. A chatbot is a natural-language interface that exists within existing messaging applications such as Whatsapp, SMS or Facebook Messenger. I propose this as a more personal, lightweight alternative to traditional weather applications.
 
-![Bot screenshot](/handin/assets/bot.PNG)
+![Bot screenshot](/handin/assets/bot.png)
 *Screenshot of a dialogue with the bot. Note that the robot understands natural language and remebers pieces of information such as the user's location. Taken May 22, 2017*
 
 A chat interface is also an efficient way to deliver critical or time-sensitive information:
