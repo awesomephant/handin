@@ -39,6 +39,6 @@ This eventually led to my final outcome.
 
 Subsequently I used the same approach to create a secondary outcome in the form of a large-scale printed piece (Originals included with this submission):
 
-![Gradient Prints](/assets/prints.jpg)
+![Gradient Prints](/handin/assets/prints.jpg)
 
 All visualisations were built using [d3.js](https://d3js.org/). The source code is [available on Github](https://github.com/awesomephant/metoffice-graphic).
