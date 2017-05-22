@@ -7,14 +7,14 @@ permalink: /unit-8-2-summary/
 
 This project was primarily driven by my interest in the possibilities offered by web-based virtual reality. All demos were built in [A-Frame](https://aframe.io/) and are intended to be viewed on a Google Cardboard Headset.
 
-![Creature](/assets/creature.jpg)
+![Creature](./assets/creature.jpg)
 *Test render*
 
 A large amount of time was spent on testing different aspects of VR, such as sound, interaction and movement in isolation before combining these elements to a final piece.
 
 - [Working file containing a series of VR tests](http://www.maxkoehler.com/vr-lab/app/)
 
-![VR Scan](/assets/vr-scan.JPG)
+![VR Scan](./assets/vr-scan.JPG)
 *Development sketch for a VR experience set in space*
 
 As VR technology becomes more advanced and daily interactions move into virtual spaces, the line between reality and simulation will inevetably be blurred. On a purely physiological level, this is already the case: Studies have shown that VR experiences provoke the same physical reactions as real-world experiences.
