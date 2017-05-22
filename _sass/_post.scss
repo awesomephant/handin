@@ -6,8 +6,31 @@
         margin-bottom: 1rem;
     }
     img {
-        max-width: 120%;
+        max-width: 100%;
     }
+    a {
+        color: lighten(gray, 15);
+    }
+    ul {
+        margin-left: 1.3rem;
+        margin-bottom: 1rem;
+    }
+    li {
+        margin-bottom: .5rem;
+    }
+    h2 {
+        margin-top: 2rem;
+        margin-bottom: .5rem;
+        color: lighten(gray, 15);
+    }
+}
+
+img + em {
+    font-style: normal;
+    font-size: .9rem;
+    max-width: 60%;
+    display: block;
+    line-height: 1.4
 }
 
 .post-header {
@@ -15,5 +38,5 @@
 }
 
 .post-title {
-    @extend %uppercase;
+    font-weight: bold;
 }
