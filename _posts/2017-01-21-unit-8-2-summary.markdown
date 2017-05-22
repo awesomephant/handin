@@ -19,7 +19,7 @@ A large amount of time was spent on testing different aspects of VR, such as sou
 
 As VR technology becomes more advanced and daily interactions move into virtual spaces, the line between reality and simulation will inevetably be blurred. On a purely physiological level, this is already the case: Studies have shown that VR experiences provoke the same physical reactions as real-world experiences.
 
-My final piece deals with this tension between reality and simulation by putting the user in a series of spaces nested within one another. 
+My final piece deals with the tension between reality and simulation by putting the user in a series of spaces nested within one another. The title is derived from the [1935 short story](http://www.gutenberg.org/files/22893/22893-h/22893-h.htm) by Stanley G. Weinbaum, which is regarded as one of the earliest works dealing with the modern notion of virtual reality.
 
 ## Notes on viewing VR work
 
